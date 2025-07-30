@@ -1,0 +1,6 @@
+dialogue_id,ai_response,fluency_score,relevance_score,notes
+1,"Sure, let me check that for you.",5,5,"Clear and directly answers user request."
+2,"Umm... I don't know maybe.",2,1,"Unclear and irrelevant response."
+3,"The capital of France is Paris.",5,5,"Correct and fluent answer."
+4,"Yes.",3,2,"Fluent but too short, lacks detail."
+5,"I think it could be possible, you know?",3,3,"Somewhat vague but related."
